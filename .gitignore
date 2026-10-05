@@ -1,0 +1,9 @@
+data/
+experiments/
+results/
+*.csv
+*.nii*
+engine/excluded_subjects.txt
+engine/qc_flag_subjects.txt
+__pycache__/
+.DS_Store
